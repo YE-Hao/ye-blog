@@ -5,15 +5,15 @@
 # Site
 title: YE 的个人博客
 subtitle: ""
-description: ""
-keywords:
+description: "一个关于记录工作生活的网站"
+keywords: "react, javascript, js"
 author: YE
 language: zh-CN
 timezone: ""
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://www.yehaolife.top
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
